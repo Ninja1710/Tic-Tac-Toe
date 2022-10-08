@@ -5,7 +5,7 @@
  *
  * No dependencies - Uses Vanilla JS
  *
- * @author: Vasanth Krishnamoorthy
+ * @author: Utkarsh Jaiswal
  */
  var N_SIZE = 3,
  EMPTY = '&nbsp;',
